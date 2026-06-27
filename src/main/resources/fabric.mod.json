@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "crashondeath",
+	"version": "${version}",
+	"name": "CrashOnDeath",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://github.com/Bagelman47/",
+		"sources": "https://github.com/Bagelman47/crashondeath/"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/crashondeath/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.bagelman47.crashondeath.CrashOnDeath"
+		],
+		"client": [
+			"com.bagelman47.crashondeath.client.CrashOnDeathClient"
+		]
+	},
+	"mixins": [
+		"crashondeath.mixins.json",
+		{
+			"config": "crashondeath.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
