@@ -1,121 +1,81 @@
-Creative Commons Legal Code
+# DON'T SNATCH MA STUFF LICENSE V3.1 (DSMSLv3.1)
 
-CC0 1.0 Universal
+## Summary
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+* **Modpacks:** You can use this mod in modpacks, but you must not include its files directly. Instead, list it as a dependency (mod reference) that points to an official download source.
 
-Statement of Purpose
+* **For Devs:** You’re allowed to create addons or integrate support for the mod, but you must not embed, copy, or include this mod’s code or compiled files in your distributed project. Instead, make it an external dependency that gets downloaded from an official source.
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+* **Redistribution Limits:** You cannot re-upload or publicly share the mod’s compiled files without the author’s explicit permission. Public source forks are allowed only as described in Section 3.2, but distributing compiled fork builds is not allowed.
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+* **Personal Use:** You may use and modify the mod for personal use. Local modified builds must remain private and must not be shared publicly. Public source forks are allowed only under the conditions described in Section 3.2.
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+* **Official Download Requirement:** Any dependency or modpack reference must point to the official download sources provided by the author.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+## Definitions
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+* **Mod Definition**: For the purposes of this license, the terms "this mod" or "the mod" refer to the entire product or project this license accompanies. This includes, but is not limited to, the source code, compiled JAR files, associated assets, documentation, and any other related components distributed under this license.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+* **Source Code**: "Source code" means the human-readable code, project files, build scripts, resources, assets, configuration files, and other development files used to build, modify, or contribute to the mod.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+* **Compiled Build**: "Compiled build" means any compiled, packaged, playable, installable, or launcher-downloadable version of the mod. This includes, but is not limited to, JAR files, release artifacts, packaged builds, bundled mod files, and compiled fork builds.
 
-4. Limitations and Disclaimers.
+* **Source Fork**: "Source fork" means a copy or fork of the mod’s source code hosted in a version-control system or source-code repository, such as GitHub, GitLab, or similar platforms, for development, experimentation, issue investigation, pull requests, or contribution purposes. A source fork is not a compiled build and does not grant permission to distribute compiled builds.
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+* **Private**: "Private" means that a copy, modified version, or compiled build of the mod is used solely by the individual who made or obtained it and is not shared with, distributed to, or made accessible to ANYONE else. Public source forks are allowed only under the Source Fork Exception in Section 3.2.
+
+* **Public**: "Public" means sharing the mod, a modified version, a compiled build, or any portion of the mod in any form that is accessible to other individuals. This includes, for example, uploading the mod or a modified version to public repositories, mod hosting sites, file-sharing services, launchers, mirrors, or modpack platforms such as Modrinth, CurseForge, etc. Public source forks are a limited exception allowed only under Section 3.2.
+
+## Terms and Conditions
+
+1. **Usage in Modpacks and as Dependencies**
+
+   * **1.1.** You may include this mod in modpacks as a mod reference. In such cases, the mod **must not** be physically included or shipped within the pack’s files. Instead, it should be listed as a dependency that the end-user or end-user’s mod launcher downloads from the official source (see Section 5).
+   * **1.2.** When used as a dependency in any project, the mod must be obtained from an official download source (see Section 5). No part of its JAR file, compiled build, or code should be embedded in the distributed product.
+
+2. **Creating Addons and Extensions**
+
+   * **2.1.** You are free to develop addons or integrate support for this mod into your own projects.
+   * **2.2.** Your project must not include, embed, copy, or redistribute any portion of this mod’s source code, compiled JAR file, compiled build, or other mod files. Instead, it should reference the mod as an external dependency that gets downloaded from an official download source (see Section 5).
+
+3. **Redistribution Prohibitions**
+
+   * **3.1.** You may not re-upload, re-distribute, mirror, publish, or otherwise publicly share the mod’s compiled JAR file, compiled builds, packaged releases, release artifacts, or any other compiled version of the mod without obtaining explicit permission from the author.
+   * **3.2.** **Source Fork Exception:** You are permitted to publicly fork the mod’s source code, for example by hosting a fork on a public repository such as GitHub, for the purposes of personal modifications, experimentation, issue investigation, pull requests, or contributing changes back to the original project.
+   * **3.3.** Public source forks must not be used to publish, provide, distribute, promote, or link to downloadable compiled versions of the mod, including but not limited to JAR files, packaged builds, release artifacts, modpack-bundled copies, launcher-downloadable builds, or unofficial mirrors.
+   * **3.4.** Public source forks must not represent themselves as official versions of the mod unless explicitly authorized by the author.
+   * **3.5.** Any distribution of a compiled version derived from a fork, modified source, unofficial build, or modified version is strictly prohibited unless you have obtained explicit permission from the author.
+   * **3.6.** Except for public source forks permitted under Section 3.2, you may not publicly copy, re-upload, redistribute, or otherwise share the mod’s source code or any portion of it without obtaining explicit permission from the author.
+
+4. **Personal Use and Modification**
+
+   * **4.1.** You may freely use and modify the mod’s source code or mod file for personal use.
+   * **4.2.** You may create and use modified builds locally for your own personal use, but you may not share, upload, distribute, publish, or otherwise make those compiled modified builds available to anyone else without explicit permission from the author.
+   * **4.3.** Public source forks are allowed only under the Source Fork Exception in Section 3.2. Such public source forks do not grant permission to distribute compiled builds, packaged releases, JAR files, modpack-bundled copies, launcher-downloadable builds, or any other playable or installable version of the modified mod.
+   * **4.4.** Except for public source forks permitted under Section 3.2, any modified version that is distributed, shared, uploaded, published, included in a modpack, made available through a launcher, or otherwise made accessible to other people is considered public distribution and requires explicit permission from the author.
+
+5. **Official Download Source Requirement**
+
+   * **5.1.** For modpacks, the mod reference must clearly point to an official download source, ensuring that end-users are directed to download the mod only from that designated source. It is acceptable for mod launchers (for example, CurseForge launcher, Modrinth launcher, Technic Launcher, ATLauncher, etc.) to automatically download the mod to the end-user’s system, as long as the mod is obtained from the official download sources:
+
+     * https://github.com/Bagelman47
+     * https://www.planetminecraft.com/member/bagelman47/
+     * https://modrinth.com/user/Bagelman47
+     * https://www.curseforge.com/members/therealbagelman47
+
+   * **5.2.** When used as a dependency, the mod must not be bundled within your distributed files. Instead, it should be configured as an external dependency, ensuring that it is downloaded either directly by the end-user or automatically by their mod launcher from the official download sources listed above.
+
+6. **Permission Requests**
+
+   * **6.1.** If you wish to re-upload, re-distribute, or otherwise publicly share any portions of the mod's code or the mod itself (or any version of it) in a manner not permitted by these Terms and Conditions, you must first obtain explicit permission from the author.
+   * **6.2.** The author reserves the right to approve or deny any permission request at their sole discretion.
+
+7. **Disclaimer of Warranty and Limitation of Liability**
+
+   * **7.1.** This mod is provided **“as is”** and **“as available”**, without any warranty of any kind, whether express, implied, statutory, or otherwise. The author makes no guarantees that the mod will work correctly, safely, uninterrupted, or error-free, or that it will remain compatible with any specific Minecraft version, mod loader, launcher, server, modpack, operating system, Java version, driver, hardware configuration, or other software.
+   * **7.2.** You use this mod entirely at your own risk. You are solely responsible for backing up your worlds, saves, configuration files, servers, modpacks, devices, systems, and any other data before installing, updating, modifying, or using the mod.
+   * **7.3.** To the maximum extent permitted by applicable law, the author, contributors, and anyone otherwise involved with the mod shall not be liable for any claim, damage, loss, cost, expense, or other liability arising from or related to the mod, its installation, use, misuse, inability to use, updates, modifications, forks, incompatibilities, or conflicts with Minecraft, Java, mod loaders, launchers, servers, operating systems, drivers, hardware, or other software.
+   * **7.4.** This limitation includes, but is not limited to, game crashes, corrupted worlds or saves, lost progress, data loss, file corruption, server downtime, modpack issues, launcher issues, compatibility problems, security issues, operating system errors, system instability, hardware malfunction, hardware damage, storage device damage, driver issues, firmware issues, reduced performance, overheating, device failure, or a system becoming unusable, unbootable, **“bricked”**, or otherwise damaged.
+   * **7.5.** The author is not responsible for copies of the mod obtained from unofficial sources, modified versions, public or private forks, redistributed files, mirrors, third-party launchers, third-party modpacks, or any version not provided through an official download source listed in this license.
+   * **7.6.** The author has no obligation to provide support, repairs, compensation, refunds, replacements, troubleshooting, updates, or fixes for any issue caused by or allegedly caused by the mod.
+   * **7.7.** Nothing in this license limits or excludes liability where such limitation or exclusion is not allowed by applicable law.
